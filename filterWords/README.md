@@ -18,3 +18,4 @@ Write a JavaScript function named `filterWords` that takes an array of words and
 const inputWords = ["apple", "car", "grape"];
 console.log(filterWords(inputWords)); // Output: ["apple", "grape"]
 ```
+

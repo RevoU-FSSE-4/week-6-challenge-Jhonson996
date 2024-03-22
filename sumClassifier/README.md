@@ -1,7 +1,7 @@
 # Sum Classifier
 
 ## Description
-
+ 
 Write a JavaScript function named `sumClassifier` that takes an array of numbers as an argument. The function should classify the sum of the numbers into three categories:
 
 - If the sum of the numbers is greater than 10, return "Large Sum".

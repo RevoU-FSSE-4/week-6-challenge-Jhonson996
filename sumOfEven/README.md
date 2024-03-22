@@ -1,5 +1,5 @@
 # Sum of Even
-
+ 
 ## Description
 
 Write a JavaScript function named `sumOfEven` that takes an array of numbers as an argument and returns the sum of all even numbers in the array.
