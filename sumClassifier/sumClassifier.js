@@ -12,7 +12,7 @@ function sumClassifier(numbers) {
   } else if (num < 10){
     sumResult = "Small Sum";
   } else {
-    sumResult = "Equal";
+    sumResult = "Equal Sum";
   }
   return sumResult;
 }
