@@ -16,5 +16,4 @@ function sumClassifier(numbers) {
   }
   return sumResult;
 }
-
 module.exports = sumClassifier;
